@@ -1,0 +1,11 @@
+.button{
+    background: white;
+    border-radius: 23px;
+    color: var(--primary-purple);
+    border: none;
+    padding: 12px 24px;
+}
+.button a{
+    color: var(--primary-purple);
+    text-decoration: none;
+}

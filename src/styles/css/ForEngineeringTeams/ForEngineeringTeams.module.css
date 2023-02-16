@@ -1,0 +1,8 @@
+.wrapper{
+    display: flex;
+    gap: 58px;
+    padding-top: 120px;
+}
+.wrapper > img{
+    height: 414px;
+}

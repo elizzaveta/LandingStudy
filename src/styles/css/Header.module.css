@@ -1,0 +1,15 @@
+header img{
+    height: 48px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+    font-weight: 500;
+    padding-top: 19px;
+}
+.nav{
+    display: flex;
+    gap: 40px;
+    align-items: center;
+}
